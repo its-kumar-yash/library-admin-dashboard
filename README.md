@@ -8,6 +8,8 @@
 ## Demo Video
 [Click Here](https://drive.google.com/file/d/1LY0FXOk9ZYONGdU4ORF8JQXnGkp5i5Bu/view?usp=sharing)
 
+PS. Please wait for 5 to 10 min for API to load content.
+
 ## Introduction
 The Book Records Dashboard is a web application designed to manage and display information about books. It allows users to view, sort, edit, and download book records stored in a database. The application provides features such as pagination, sorting, searching, and exporting data to CSV format.
 
